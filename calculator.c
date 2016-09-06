@@ -16,4 +16,9 @@ void main()
   {
     return a-b;
   }
+
+   int multi(int p,int q)
+  {
+    return a*b;
+  }
 }
